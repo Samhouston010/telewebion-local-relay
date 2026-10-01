@@ -1,7 +1,7 @@
 {
  "version": "1.0.0",
  "files": {
-  "tw_local_relay.py": "6069ed3a9dae8ccc1e8b9943213c16805421ecbc6312d831ed0a18d93e193515",
-  "tw_proxy.py": "259d9fcf08081c0bef8239c6491b432d72ff6187ccdae2310d7d784428ab927c"
+  "tw_local_relay.py": "a336de69a8a2eaab51918ab2716dee482373371e35d69e6493a371708b72e9a7",
+  "tw_proxy.py": "831f8051940af3257afb86e5efab4f8bd99635b373dce568d1467e174a0f542e"
  }
 }
